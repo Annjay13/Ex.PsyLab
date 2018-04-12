@@ -5,7 +5,7 @@ Experimental work is hard. Opportunities for suboptimality and failure abound. T
 
 ## **Schedule** 
 
-| **session** | **day** | **topic**                         | **material |
+| **session** | **day** | **topic**                         | **material** |
 |-------------|---------|-----------------------------------|------------|
 |1            |April 12 |introduction                       |[handout](https://github.com/Annjay13/LabPrac2018/tree/master/Handouts), [slides](https://github.com/Annjay13/LabPrac2018/tree/master/Slides)
 |2            |April 19 |tidy cooperation, git, markdown    |[git](https://git-scm.com/),[markdown](https://guides.github.com/features/mastering-markdown/)
